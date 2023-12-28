@@ -2,7 +2,10 @@
 
 ## Introduction
 
-Welcome to the Granada Web Presentation project! This project is dedicated to showcasing the beautiful city of Granada, Spain, through an interactive and responsive web experience. Our landing page is a simple project we had to manage to get in touch with responsive websites and a way through displaying items.  
+Welcome to the Granada Web Presentation project! This project is dedicated to showcasing the beautiful city of Granada, Spain, through an interactive and responsive web experience. Our landing page is a simple project we had to manage to get in touch with responsive websites and a way through displaying items.
+
+![Imagen](https://github.com/amilian89/resume-template/blob/main/Captura%20de%20pantalla%202023-02-11%20a%20las%2013.41.27.png)
+
 ## Features
 
 - **Responsive Design**: Our website is fully responsive, providing an optimal viewing experience across a wide range of devices, from desktop computers to mobile phones.
